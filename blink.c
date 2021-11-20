@@ -1,7 +1,6 @@
 /*
  * blink.c:
  *      blinks the first LED
- *      Gordon Henderson, projects@drogon.net
  */
 
 #include <stdio.h>
