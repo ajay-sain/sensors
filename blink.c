@@ -1,6 +1,8 @@
 /*
  * blink.c:
  *      blinks the first LED
+ * 
+ * Following is for jst blinking an led to start with GPIO
  */
 
 #include <stdio.h>

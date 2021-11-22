@@ -1,3 +1,17 @@
+/**
+ * @file dht11.c
+
+ * @author ajay sain (ajaysain00786@gmail.com)
+ * @brief 
+ * @version 0.1
+ * @date 2021-11-20
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ * Following is the code for DHT11 (humidity and temperature sensor)
+ * 
+ */
+
 #include <stdio.h>
 #include <wiringPi.h>
 
